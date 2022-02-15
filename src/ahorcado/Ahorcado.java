@@ -18,6 +18,7 @@ public class Ahorcado {
      public static void main(String[] args) {
           // TODO code application logic here
           AhorcadoServicios AS = new AhorcadoServicios();
+          System.out.println("");
           AS.juego();
      }
      
